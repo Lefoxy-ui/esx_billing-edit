@@ -1,2 +1,30 @@
-# esx_billing-edit
-esx_billing_edit
+# esx_billing (Edit)
+
+Dies ist eine leicht angepasste Version von `esx_billing` für das ESX-Framework in FiveM. Dieses Edit fügt kleinere Verbesserungen und Anpassungen hinzu.
+
+---
+# Screenshots:
+![image](https://github.com/user-attachments/assets/da32ec23-5d39-45ca-9dd5-d806e5dce729)
+![image](https://github.com/user-attachments/assets/1cf8b1bd-0bc6-42c8-9f98-7370994fd991)
+![image](https://github.com/user-attachments/assets/825e5823-7166-47d4-a7e7-c91a0ef72419)
+
+
+
+
+---
+
+## Installation
+
+1. Repository herunterladen oder klonen:
+   ```bash
+   git clone https://github.com/Lefoxy-ui/esx_billing-edit
+
+2. in Den Ressourcen Ordner Ziehen
+   ```bash
+   resources\[esx_addons]\esx_billing
+
+3. Server CFG
+   ```bash
+   ensure esx_billing
+
+   
